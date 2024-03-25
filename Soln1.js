@@ -10,7 +10,7 @@ function studentGradeGenerator(marks) {
     }else if(marks >= 50 && marks < 60){
         grade = 'C';
 
-    }else if(marks >= 40 &&marks < 50){
+    }else if(marks >= 40 && marks < 50){
         grade = 'D';
 
     }else if (marks >=0 && marks < 40){
